@@ -78,9 +78,6 @@ class GetStarted extends StatelessWidget {
                 style: GoogleFonts.inter(color: Colors.white, fontSize: 17),
               ),
             )
-
-            //color: const Color(0xff4267B2),
-            // child:Image.asset("assets/images/Container.png")
           ],
         ),
       ]),
